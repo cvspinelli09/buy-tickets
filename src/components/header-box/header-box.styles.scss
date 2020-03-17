@@ -1,0 +1,153 @@
+.header {
+    width: 400px;
+    padding: 6px;
+    background: rgb(128, 4, 4);
+
+}
+
+.header-title {
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    margin: 2px;
+    padding: 0 6px;
+    color: white;
+    font-size: 1em;
+}
+
+.header-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 400px;
+    padding: 6px;
+    background: rgb(214, 18, 18);
+}
+
+.input-container {
+    width: 380px;
+    padding: 6px;
+    height: 2.5em;
+    margin: 10px 0;
+    border: none;
+    border-radius: 3px;
+    background-color: white;
+    
+    &::placeholder {
+      color: rgb(48, 46, 46);
+      font-size: 1.3em;
+    }
+}
+.input-container-outward {
+    width: 380px;
+    padding: 6px;
+    height: 1.8em;
+    margin: 5px 0;
+    border-top: 1px solid rgb(190, 184, 184);
+    border-left: lightgrey;
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(19, 18, 18);
+    font-size: 0.6em;
+
+    &::placeholder {
+      color: rgb(48, 46, 46);
+      font-size: 1em;
+    }
+}
+
+
+.outward-journey-section {
+    width: 400px;
+    padding: 6px;
+    background: rgb(224, 221, 221);
+}
+
+.title {
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    margin-top: 3px;
+    margin-bottom: 2px;
+    padding: 0 6px;
+    color: rgb(202, 53, 53);
+    font-size: 0.8em;
+}
+
+.depart-clock-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 393px;
+    margin: auto;
+    padding: 2px;
+}
+.depart-input {
+    width: 180px;
+    height: 22px;
+    border: 1px solid rgb(145, 141, 141);
+    border-radius: 3px;
+    padding: 3px;
+    padding-left: 5px;
+    font-size: 0.6em;
+    background: rgb(175, 171, 171);
+
+    &::placeholder {
+      color: rgb(41, 39, 39);
+      font-size: 1.1em;
+    }
+}
+
+.clock-input {
+    width: 180px;
+    height: 22px;
+    padding: 3px;
+    padding-left: 5px;
+    border-top: rgb(145, 141, 141);
+    border-right: rgb(145, 141, 141);
+    border-left: lightgray;
+    border-radius: 3px;
+
+    &::placeholder {
+      color: rgb(48, 46, 46);
+      font-size: 1.3em;
+    }
+}
+
+.return-checkbox {
+    width: 390px;
+    margin: auto;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.one-way-checkbox {
+    width: 48%;
+    height: 1.5em;
+    background: white;
+}
+.labels {
+    font-size: small;
+    color: rgb(32, 32, 32);
+    padding: 3px;
+}
+
+.open-return-container {
+    width: 395px;
+    height: 1.5em;
+    background: rgb(241, 239, 239);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 3px;
+    margin-top: 5px;
+
+    &::placeholder {
+        color: rgb(48, 46, 46);
+        font-size: 1.3em;
+    }
+}
+ 
