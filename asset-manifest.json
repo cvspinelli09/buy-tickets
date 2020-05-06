@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/buy-tickets/static/css/main.58849494.chunk.css",
+    "main.js": "/buy-tickets/static/js/main.a3298b03.chunk.js",
+    "main.js.map": "/buy-tickets/static/js/main.a3298b03.chunk.js.map",
+    "runtime-main.js": "/buy-tickets/static/js/runtime-main.419a40fb.js",
+    "runtime-main.js.map": "/buy-tickets/static/js/runtime-main.419a40fb.js.map",
+    "static/js/2.5e8e9dcd.chunk.js": "/buy-tickets/static/js/2.5e8e9dcd.chunk.js",
+    "static/js/2.5e8e9dcd.chunk.js.map": "/buy-tickets/static/js/2.5e8e9dcd.chunk.js.map",
+    "index.html": "/buy-tickets/index.html",
+    "precache-manifest.60d182cb2fa2c2d59dd0d3fe8ca25924.js": "/buy-tickets/precache-manifest.60d182cb2fa2c2d59dd0d3fe8ca25924.js",
+    "service-worker.js": "/buy-tickets/service-worker.js",
+    "static/css/main.58849494.chunk.css.map": "/buy-tickets/static/css/main.58849494.chunk.css.map",
+    "static/js/2.5e8e9dcd.chunk.js.LICENSE.txt": "/buy-tickets/static/js/2.5e8e9dcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.419a40fb.js",
+    "static/js/2.5e8e9dcd.chunk.js",
+    "static/css/main.58849494.chunk.css",
+    "static/js/main.a3298b03.chunk.js"
+  ]
+}
